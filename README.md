@@ -32,6 +32,7 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 - Staff : Nama, Jadwal Kerja, Kontak.
 
 ### 3. Use Case Diagram :
+![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/e63a0eaea59fce1d5cdff70da89f5017d5090116/Tugas%20Apbo%20Diagram/UseCase%20Apbo.jpg)
 
 
 ### 4. Class Diagram : 
