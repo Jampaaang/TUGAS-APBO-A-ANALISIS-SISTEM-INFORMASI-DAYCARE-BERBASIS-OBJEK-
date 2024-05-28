@@ -22,6 +22,8 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 - Data Anak : Informasi pribadi anak, catatan kesehatan, riwayat kehadiran, dan perkembangan.
 - Data Orang Tua/Wali : Informasi pribadi orang tua, kontak, dan hubungan dengan anak.
 - Data Staf : Informasi pribadi, jadwal kerja, dan catatan kehadiran.
+- Data Administrasi : Informasi Pribadi dan Data Pembayaran.
+- Pembayaran : Data Pembayaran dan Waktu Pembayaran.
 - Jadwal : Jadwal kegiatan harian dan mingguan untuk anak-anak.
 - Kehadiran : Pencatatan kehadiran harian anak-anak.
 - Laporan : Laporan bulanan atau mingguan mengenai kehadiran, perkembangan anak, dan kesehatan.
@@ -30,6 +32,7 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 - Anak : Nama, Umur, Kesehatan.
 - Orang Tua : Nama, Kontak, Hubungan.
 - Staff : Nama, Jadwal Kerja, Kontak.
+- Administrasi : Nama dan Kontak.
 
 ### 3. Use Case Diagram :
 ![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/e63a0eaea59fce1d5cdff70da89f5017d5090116/Tugas%20Apbo%20Diagram/UseCase%20Apbo.jpg)
