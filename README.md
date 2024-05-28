@@ -39,4 +39,4 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 ![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/966fab3bc3176463966e2ac8ddb7a3a2582f4dac/Tugas%20Apbo%20Diagram/Class%20Diagram%20APBO.jpg)
 
 ### 5. ERD Diagram :
-
+![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/4ca7b9e91c94f62bb7ae8ef59ea739bac660d39c/Tugas%20Apbo%20Diagram/ERD%20APBO.png)
