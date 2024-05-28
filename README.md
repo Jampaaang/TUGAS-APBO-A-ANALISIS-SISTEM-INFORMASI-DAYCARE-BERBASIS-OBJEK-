@@ -23,7 +23,7 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 - Data Orang Tua/Wali : Informasi pribadi orang tua, kontak, dan hubungan dengan anak.
 - Data Staf : Informasi pribadi, jadwal kerja, dan catatan kehadiran.
 - Jadwal : Jadwal kegiatan harian dan mingguan untuk anak-anak.
-- Kehadiran : Pencatatan kehadiran harian anak-anak dan staf.
+- Kehadiran : Pencatatan kehadiran harian anak-anak.
 - Laporan : Laporan bulanan atau mingguan mengenai kehadiran, perkembangan anak, dan kesehatan.
 
 ### 2. Aktor :
