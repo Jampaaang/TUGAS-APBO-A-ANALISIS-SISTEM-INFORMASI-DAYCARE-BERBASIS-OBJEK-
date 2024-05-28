@@ -35,11 +35,11 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 - Administrasi : Nama dan Kontak.
 
 ### 3. Use Case Diagram :
-![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/e63a0eaea59fce1d5cdff70da89f5017d5090116/Tugas%20Apbo%20Diagram/UseCase%20Apbo.jpg)
+![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/ea7b1e7019dc4f903f64fb3d46d5c00bbb98ffb0/APBO%20Diagram/UseCase%20Diagram%20APBO.jpg)
 
 
 ### 4. Class Diagram : 
-![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/966fab3bc3176463966e2ac8ddb7a3a2582f4dac/Tugas%20Apbo%20Diagram/Class%20Diagram%20APBO.jpg)
+![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/ea7b1e7019dc4f903f64fb3d46d5c00bbb98ffb0/APBO%20Diagram/Class%20Diagram%20APBO.jpg)
 
 ### 5. ERD Diagram :
-![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/4ca7b9e91c94f62bb7ae8ef59ea739bac660d39c/Tugas%20Apbo%20Diagram/ERD%20APBO.png)
+![alt text](https://github.com/Jampaaang/TUGAS-APBO-A-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/blob/ea7b1e7019dc4f903f64fb3d46d5c00bbb98ffb0/APBO%20Diagram/ERD%20APBO.png)
